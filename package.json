@@ -1,0 +1,52 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format:check": "prettier --check .",
+    "format": "prettier --write . --list-different",
+    "generate": "drizzle-kit generate:pg",
+    "migrate": "tsx src/migrate.ts",
+    "studio": "drizzle-kit studio"
+  },
+  "dependencies": {
+    "@googleapis/youtube": "^13.0.0",
+    "@hookform/resolvers": "^3.3.2",
+    "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
+    "@tailwindcss/typography": "^0.5.10",
+    "@vercel/postgres": "^0.5.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "dotenv": "^16.3.1",
+    "drizzle-orm": "^0.29.3",
+    "lucide-react": "^0.294.0",
+    "ms": "^2.1.3",
+    "next": "14.0.4",
+    "next-mdx-remote": "^4.4.1",
+    "pg": "^8.11.3",
+    "postgres": "^3.4.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.49.0",
+    "sugar-high": "^0.5.6",
+    "tailwind-merge": "^2.1.0",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "drizzle-kit": "^0.20.10",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
