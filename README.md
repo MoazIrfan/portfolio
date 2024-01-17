@@ -1,6 +1,6 @@
 # My Personal Website
 
-My personal(portfolio) website, built using Next.js 14 and Tailwind CSS.
+My personal portfolio website, built using Next.js 14 and Tailwind CSS.
 
 ## Live Demo
 
