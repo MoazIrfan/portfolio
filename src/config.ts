@@ -44,12 +44,12 @@ export const CONFIG = {
     },
     {
       featured: true,
-      name: 'doc-chatbot',
-      slug: 'doc-chatbot',
+      name: 'chat-pdf',
+      slug: 'chat-pdf',
       description: 'Get answers to content related questions.',
       image:
         'https://res.cloudinary.com/duud9d8dv/image/upload/v1704691426/devsetup_unsidr.png',
-      link: 'https://github.com/MoazIrfan/doc-chatbot',
+      link: 'https://github.com/MoazIrfan/chat-pdf',
     },
     {
       featured: true,
@@ -62,6 +62,14 @@ export const CONFIG = {
     },
   ],
   posts: [
+    {
+      title: 'Build your own PDF Reader Bot using OpenAI in Next.js',
+      slug: 'build-your-own-pdf-reader-bot-using-openai-in-nextjs',
+      date: 'January 17, 2024',
+      image: '/blog/chat-pdf.png',
+      link: 'https://www.linkedin.com/pulse/build-your-own-pdf-reader-bot-using-openai-nextjs-moaz-irfan-fidze',
+      views: '35,530 views',
+    },
     {
       title: 'My Journey with Coding Automation',
       slug: 'my-journey-with-coding-automation',
