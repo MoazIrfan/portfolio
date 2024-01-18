@@ -52,7 +52,7 @@ export default function About() {
 
         <div className="md:w-1/2 md:flex md:justify-end">
           <Image
-            src="/moaz-irfan.jpeg"
+            src="/moaz-irfan.jpg"
             alt="moaz-irfan"
             width={470}
             height={571}
