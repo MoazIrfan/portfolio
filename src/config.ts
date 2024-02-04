@@ -18,7 +18,7 @@ export const CONFIG = {
       featured: true,
       name: 'react-tailwind-app',
       slug: 'react-tailwind-app',
-      description: 'Start React project with Tailwind using npm package.',
+      description: 'NPM package to start React project with Tailwind.',
       image:
         'https://res.cloudinary.com/duud9d8dv/image/upload/v1704691486/project-planner-ai_imlf93.png',
       link: 'https://github.com/MoazIrfan/react-tailwind-app',
@@ -27,7 +27,7 @@ export const CONFIG = {
       featured: true,
       name: 'cwc-cli',
       slug: 'cwc-cli',
-      description: 'CLI to check the Cricket World Cup 2023 matches schedule in your terminal.',
+      description: 'CLI to check the Cricket World Cup matches schedule in your terminal.',
       image:
         'https://res.cloudinary.com/duud9d8dv/image/upload/v1704691426/open-graph-vault_pl6sgd.png',
       link: 'https://github.com/MoazIrfan/cwc-cli',
@@ -46,7 +46,7 @@ export const CONFIG = {
       featured: true,
       name: 'chat-pdf',
       slug: 'chat-pdf',
-      description: 'Get answers to content related questions.',
+      description: 'Get answers to your content-related questions.',
       image:
         'https://res.cloudinary.com/duud9d8dv/image/upload/v1704691426/devsetup_unsidr.png',
       link: 'https://github.com/MoazIrfan/chat-pdf',
