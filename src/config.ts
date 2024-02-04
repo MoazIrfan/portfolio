@@ -7,6 +7,15 @@ export const CONFIG = {
   projects: [
     {
       featured: true,
+      name: 'AI-Next.js-Postgres-Node.js-Workflow',
+      slug: 'ai-nextjs-postgres-nodejs-workflow',
+      description: 'AI-powered CRUD Next.js app with Postgres Database, and Node.js Backend.',
+      image:
+        '/bg-2.png',
+      link: 'https://github.com/MoazIrfan/AI-Next.js-Postgres-Node.js-Workflow',
+    },
+    {
+      featured: true,
       name: 'react-tailwind-app',
       slug: 'react-tailwind-app',
       description: 'Start your React project with Tailwind.',
@@ -22,15 +31,6 @@ export const CONFIG = {
       image:
         'https://res.cloudinary.com/duud9d8dv/image/upload/v1704691426/open-graph-vault_pl6sgd.png',
       link: 'https://github.com/MoazIrfan/cwc-cli',
-    },
-    {
-      featured: true,
-      name: 'AI-Next.js-Postgres-Node.js-Workflow',
-      slug: 'ai-nextjs-postgres-nodejs-workflow',
-      description: 'AI-powered CRUD Next.js app with Postgres Database, and Node.js Backend.',
-      image:
-        '/bg-2.png',
-      link: 'https://github.com/MoazIrfan/AI-Next.js-Postgres-Node.js-Workflow',
     },
     {
       featured: true,
