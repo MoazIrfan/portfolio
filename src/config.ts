@@ -3,7 +3,7 @@ export const CONFIG = {
   headshot:
     '/moazirfan.jpeg',
   title: 'Software Engineer',
-  description: `I design React and Node apps, considering performance, scalability, and modularity.`,
+  description: `I design React apps, considering performance, scalability, and modularity.`,
   projects: [
     {
       featured: true,
@@ -18,7 +18,7 @@ export const CONFIG = {
       featured: true,
       name: 'react-tailwind-app',
       slug: 'react-tailwind-app',
-      description: 'Start your React project with Tailwind.',
+      description: 'Start React project with Tailwind using npm package.',
       image:
         'https://res.cloudinary.com/duud9d8dv/image/upload/v1704691486/project-planner-ai_imlf93.png',
       link: 'https://github.com/MoazIrfan/react-tailwind-app',
