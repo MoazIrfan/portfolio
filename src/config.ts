@@ -25,12 +25,12 @@ export const CONFIG = {
     },
     {
       featured: true,
-      name: 'next-blog-app',
-      slug: 'next-blog-app',
-      description: 'Instantly generate a blog with a new Nextjs project using TypeScript and TailwindCSS.',
+      name: 'AI-Next.js-Postgres-Node.js-Workflow',
+      slug: 'ai-nextjs-postgres-nodejs-workflow',
+      description: 'AI-powered CRUD Next.js app with Postgres Database, and Node.js Backend.',
       image:
         '/bg-2.png',
-      link: 'https://github.com/MoazIrfan/next-blog-app',
+      link: 'https://github.com/MoazIrfan/AI-Next.js-Postgres-Node.js-Workflow',
     },
     {
       featured: true,
