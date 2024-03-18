@@ -1,8 +1,10 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
+import Script from "next/script"
 
 import '../styles/globals.css';
 
+declare let dataLayer: any[];
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
@@ -38,6 +40,16 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-ESY1R3DRYH"></Script>
+      <Script id="google-analytics">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-ESY1R3DRYH');
+        
+        `}
+      </Script>
         <meta name="viewport" content="width=device-width, user-scalable=no" />
         <link
           rel="icon"
