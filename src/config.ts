@@ -7,6 +7,15 @@ export const CONFIG = {
   projects: [
     {
       featured: true,
+      name: 'Any-LLM',
+      slug: 'any-llm',
+      description: 'React ChatGPT Template for Utilizing Any OpenAI Language Model.',
+      image:
+        '/any-llm.jpg',
+      link: 'https://github.com/MoazIrfan/Any-LLM',
+    },
+    {
+      featured: true,
       name: 'AI-Next.js-Postgres-Node.js-Workflow',
       slug: 'ai-nextjs-postgres-nodejs-workflow',
       description: 'AI-powered CRUD Next.js app with Postgres Database, and Node.js Backend.',
