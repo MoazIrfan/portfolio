@@ -9,7 +9,7 @@ export const CONFIG = {
       featured: true,
       name: 'Any-LLM',
       slug: 'any-llm',
-      description: 'React ChatGPT Template for Utilizing Any OpenAI Language Model.',
+      description: 'React ChatGPT / GPT 4 Template for Utilizing Any OpenAI Language Model.',
       image:
         '/any-llm.jpg',
       link: 'https://github.com/MoazIrfan/Any-LLM',
