@@ -3,7 +3,7 @@ export const CONFIG = {
   headshot:
     '/moazirfan.jpeg',
   title: 'Software Engineer',
-  description: `I design React apps, considering performance, scalability, and modularity.`,
+  description: `I design React and Node apps, considering performance, scalability, and modularity.`,
   projects: [
     {
       featured: true,
