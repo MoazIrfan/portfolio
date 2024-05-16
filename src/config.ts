@@ -1,9 +1,9 @@
 export const CONFIG = {
   name: 'Moaz Irfan',
   headshot:
-    '/moazirfan.jpeg',
-  title: 'Software Engineer',
-  description: `I design React and Node apps, considering performance, scalability, and modularity.`,
+    '/moazirfan.jpg',
+  title: 'Software Engineer, Frontend',
+  description: `Hi! I'm Moaz. Front-end Software Engineer with a full-stack background specializing in React (Next.js), Node, and Web Performance.`,
   projects: [
     {
       featured: true,

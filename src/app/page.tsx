@@ -63,8 +63,8 @@ export default function Home() {
               <Image
                 src={CONFIG.headshot}
                 alt=""
-                width={100}
-                height={100}
+                width={200}
+                height={200}
                 className="rounded-full h-[48px] w-[48px]"
               />
               <div className="flex flex-col">

@@ -36,7 +36,7 @@ export default function About() {
             Front-End Focused, Full-Stack Adept
           </h1>
           <p>
-            Hi, I&#39;m Moaz Irfan. I&#39;ve been developing digital products for over half a decade. In my career, I&#39;ve had the opportunity to work on impactful projects for Fortune 100 companies. Authored open source software tools used by thousands of users. See them on <a target="_blank" rel="noreferrer" className="text-sky-400" href="https://github.com/moazirfan">GitHub</a>. Knack of creating automation tools to automate workflows and boost efficiency.
+            Hi, I&#39;m Moaz Irfan. Creating digital products for over 5 years, including projects for Fortune 100 companies. My open-source used by Thousands of users. See them on <a target="_blank" rel="noreferrer" className="text-sky-400" href="https://github.com/moazirfan">GitHub</a>. Fan of automation, love making automation tools to automate workflows.
           </p>
           <br />
           <p>
@@ -44,7 +44,7 @@ export default function About() {
           </p>
           <br />
           <p>
-            I focus on creating performant web applications, where I use my computer science background to craft software that is maintainable, scalable, and a pleasure to use.
+            I create performant web applications, leveraging my computer science background to develop software that is maintainable, scalable, and a pleasure to use.
           </p>
           <br />
           
