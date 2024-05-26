@@ -12,7 +12,7 @@ export const CONFIG = {
       description: 'React ChatGPT / GPT 4 Template for Utilizing Any OpenAI Language Model.',
       image:
         '/any-llm.jpg',
-      link: 'https://github.com/MoazIrfan/Any-LLM',
+      link: 'https://any-llm-website.vercel.app',
     },
     {
       featured: true,
